@@ -1,6 +1,6 @@
 ﻿namespace HomeWork4.app;
 
-public enum ProductEnum
+public enum ArticleType 
 {
     Phone,
     NoteBook,
@@ -12,9 +12,9 @@ public enum ProductEnum
 public class Article
 {
     private uint _ProductCode;
-    private ProductEnum _NameProduct;
+    private ArticleType _NameProduct;
     private double _PriceProduct;
-    public Article(uint productCode, ProductEnum nameProduct, double priceProduct)
+    public Article(uint productCode, ArticleType nameProduct, double priceProduct)
     {
         _ProductCode = productCode;
         _NameProduct = nameProduct;
