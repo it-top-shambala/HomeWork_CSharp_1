@@ -1,0 +1,15 @@
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\bin\Debug\net6.0\NumberOfSquares.exe
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\bin\Debug\net6.0\NumberOfSquares.deps.json
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\bin\Debug\net6.0\NumberOfSquares.runtimeconfig.json
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\bin\Debug\net6.0\NumberOfSquares.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\bin\Debug\net6.0\ref\NumberOfSquares.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\bin\Debug\net6.0\NumberOfSquares.pdb
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\obj\Debug\net6.0\NumberOfSquares.csproj.AssemblyReference.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\obj\Debug\net6.0\NumberOfSquares.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\obj\Debug\net6.0\NumberOfSquares.AssemblyInfoInputs.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\obj\Debug\net6.0\NumberOfSquares.AssemblyInfo.cs
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\obj\Debug\net6.0\NumberOfSquares.csproj.CoreCompileInputs.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\obj\Debug\net6.0\NumberOfSquares.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\obj\Debug\net6.0\ref\NumberOfSquares.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\obj\Debug\net6.0\NumberOfSquares.pdb
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOfSquares\obj\Debug\net6.0\NumberOfSquares.genruntimeconfig.cache

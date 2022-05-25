@@ -1,0 +1,15 @@
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\bin\Debug\net6.0\BankDeposit.exe
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\bin\Debug\net6.0\BankDeposit.deps.json
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\bin\Debug\net6.0\BankDeposit.runtimeconfig.json
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\bin\Debug\net6.0\BankDeposit.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\bin\Debug\net6.0\ref\BankDeposit.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\bin\Debug\net6.0\BankDeposit.pdb
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\obj\Debug\net6.0\BankDeposit.csproj.AssemblyReference.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\obj\Debug\net6.0\BankDeposit.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\obj\Debug\net6.0\BankDeposit.AssemblyInfoInputs.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\obj\Debug\net6.0\BankDeposit.AssemblyInfo.cs
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\obj\Debug\net6.0\BankDeposit.csproj.CoreCompileInputs.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\obj\Debug\net6.0\BankDeposit.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\obj\Debug\net6.0\ref\BankDeposit.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\obj\Debug\net6.0\BankDeposit.pdb
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\BankDeposit\obj\Debug\net6.0\BankDeposit.genruntimeconfig.cache
