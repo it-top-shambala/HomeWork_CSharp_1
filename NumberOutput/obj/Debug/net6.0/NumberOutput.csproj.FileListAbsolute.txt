@@ -1,0 +1,15 @@
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\bin\Debug\net6.0\NumberOutput.exe
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\bin\Debug\net6.0\NumberOutput.deps.json
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\bin\Debug\net6.0\NumberOutput.runtimeconfig.json
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\bin\Debug\net6.0\NumberOutput.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\bin\Debug\net6.0\ref\NumberOutput.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\bin\Debug\net6.0\NumberOutput.pdb
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\obj\Debug\net6.0\NumberOutput.csproj.AssemblyReference.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\obj\Debug\net6.0\NumberOutput.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\obj\Debug\net6.0\NumberOutput.AssemblyInfoInputs.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\obj\Debug\net6.0\NumberOutput.AssemblyInfo.cs
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\obj\Debug\net6.0\NumberOutput.csproj.CoreCompileInputs.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\obj\Debug\net6.0\NumberOutput.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\obj\Debug\net6.0\ref\NumberOutput.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\obj\Debug\net6.0\NumberOutput.pdb
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\NumberOutput\obj\Debug\net6.0\NumberOutput.genruntimeconfig.cache

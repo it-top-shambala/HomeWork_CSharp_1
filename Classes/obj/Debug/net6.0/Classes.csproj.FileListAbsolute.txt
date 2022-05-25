@@ -1,0 +1,15 @@
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\bin\Debug\net6.0\Classes.exe
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\bin\Debug\net6.0\Classes.deps.json
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\bin\Debug\net6.0\Classes.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\bin\Debug\net6.0\ref\Classes.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\bin\Debug\net6.0\Classes.pdb
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\obj\Debug\net6.0\Classes.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\obj\Debug\net6.0\ref\Classes.dll
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\obj\Debug\net6.0\Classes.pdb
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+F:\Project\Step\Step_CS\HomeWork_CSharp_1\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
