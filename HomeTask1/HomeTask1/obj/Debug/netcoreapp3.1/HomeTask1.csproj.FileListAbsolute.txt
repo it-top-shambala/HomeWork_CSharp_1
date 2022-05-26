@@ -1,0 +1,14 @@
+E:\CS\Starinin\HomeTask1\HomeTask1\bin\Debug\netcoreapp3.1\HomeTask1.exe
+E:\CS\Starinin\HomeTask1\HomeTask1\bin\Debug\netcoreapp3.1\HomeTask1.deps.json
+E:\CS\Starinin\HomeTask1\HomeTask1\bin\Debug\netcoreapp3.1\HomeTask1.runtimeconfig.json
+E:\CS\Starinin\HomeTask1\HomeTask1\bin\Debug\netcoreapp3.1\HomeTask1.runtimeconfig.dev.json
+E:\CS\Starinin\HomeTask1\HomeTask1\bin\Debug\netcoreapp3.1\HomeTask1.dll
+E:\CS\Starinin\HomeTask1\HomeTask1\bin\Debug\netcoreapp3.1\HomeTask1.pdb
+E:\CS\Starinin\HomeTask1\HomeTask1\obj\Debug\netcoreapp3.1\HomeTask1.csproj.AssemblyReference.cache
+E:\CS\Starinin\HomeTask1\HomeTask1\obj\Debug\netcoreapp3.1\HomeTask1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\Starinin\HomeTask1\HomeTask1\obj\Debug\netcoreapp3.1\HomeTask1.AssemblyInfoInputs.cache
+E:\CS\Starinin\HomeTask1\HomeTask1\obj\Debug\netcoreapp3.1\HomeTask1.AssemblyInfo.cs
+E:\CS\Starinin\HomeTask1\HomeTask1\obj\Debug\netcoreapp3.1\HomeTask1.csproj.CoreCompileInputs.cache
+E:\CS\Starinin\HomeTask1\HomeTask1\obj\Debug\netcoreapp3.1\HomeTask1.dll
+E:\CS\Starinin\HomeTask1\HomeTask1\obj\Debug\netcoreapp3.1\HomeTask1.pdb
+E:\CS\Starinin\HomeTask1\HomeTask1\obj\Debug\netcoreapp3.1\HomeTask1.genruntimeconfig.cache
