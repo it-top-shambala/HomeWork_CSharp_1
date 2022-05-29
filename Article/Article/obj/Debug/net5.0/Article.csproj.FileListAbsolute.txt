@@ -1,0 +1,16 @@
+C:\Users\ELENA\source\repos\Article\Article\bin\Debug\net5.0\Article.exe
+C:\Users\ELENA\source\repos\Article\Article\bin\Debug\net5.0\Article.deps.json
+C:\Users\ELENA\source\repos\Article\Article\bin\Debug\net5.0\Article.runtimeconfig.json
+C:\Users\ELENA\source\repos\Article\Article\bin\Debug\net5.0\Article.runtimeconfig.dev.json
+C:\Users\ELENA\source\repos\Article\Article\bin\Debug\net5.0\Article.dll
+C:\Users\ELENA\source\repos\Article\Article\bin\Debug\net5.0\ref\Article.dll
+C:\Users\ELENA\source\repos\Article\Article\bin\Debug\net5.0\Article.pdb
+C:\Users\ELENA\source\repos\Article\Article\obj\Debug\net5.0\Article.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELENA\source\repos\Article\Article\obj\Debug\net5.0\Article.AssemblyInfoInputs.cache
+C:\Users\ELENA\source\repos\Article\Article\obj\Debug\net5.0\Article.AssemblyInfo.cs
+C:\Users\ELENA\source\repos\Article\Article\obj\Debug\net5.0\Article.csproj.CoreCompileInputs.cache
+C:\Users\ELENA\source\repos\Article\Article\obj\Debug\net5.0\Article.dll
+C:\Users\ELENA\source\repos\Article\Article\obj\Debug\net5.0\ref\Article.dll
+C:\Users\ELENA\source\repos\Article\Article\obj\Debug\net5.0\Article.pdb
+C:\Users\ELENA\source\repos\Article\Article\obj\Debug\net5.0\Article.genruntimeconfig.cache
+C:\Users\ELENA\source\repos\Article\Article\obj\Debug\net5.0\Article.csproj.AssemblyReference.cache

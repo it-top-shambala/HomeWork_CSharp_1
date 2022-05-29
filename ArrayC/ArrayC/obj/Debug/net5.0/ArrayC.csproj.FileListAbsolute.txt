@@ -1,0 +1,16 @@
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\obj\Debug\net5.0\ArrayC.csproj.AssemblyReference.cache
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\obj\Debug\net5.0\ArrayC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\obj\Debug\net5.0\ArrayC.AssemblyInfoInputs.cache
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\obj\Debug\net5.0\ArrayC.AssemblyInfo.cs
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\obj\Debug\net5.0\ArrayC.csproj.CoreCompileInputs.cache
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\bin\Debug\net5.0\ArrayC.exe
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\bin\Debug\net5.0\ArrayC.deps.json
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\bin\Debug\net5.0\ArrayC.runtimeconfig.json
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\bin\Debug\net5.0\ArrayC.runtimeconfig.dev.json
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\bin\Debug\net5.0\ArrayC.dll
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\bin\Debug\net5.0\ref\ArrayC.dll
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\bin\Debug\net5.0\ArrayC.pdb
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\obj\Debug\net5.0\ArrayC.dll
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\obj\Debug\net5.0\ref\ArrayC.dll
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\obj\Debug\net5.0\ArrayC.pdb
+C:\Users\ELENA\source\repos\ArrayC\ArrayC\obj\Debug\net5.0\ArrayC.genruntimeconfig.cache
