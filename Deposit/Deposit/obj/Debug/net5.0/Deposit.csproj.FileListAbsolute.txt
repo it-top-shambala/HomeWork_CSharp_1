@@ -1,0 +1,16 @@
+C:\Users\ELENA\source\repos\Deposit\Deposit\bin\Debug\net5.0\Deposit.exe
+C:\Users\ELENA\source\repos\Deposit\Deposit\bin\Debug\net5.0\Deposit.deps.json
+C:\Users\ELENA\source\repos\Deposit\Deposit\bin\Debug\net5.0\Deposit.runtimeconfig.json
+C:\Users\ELENA\source\repos\Deposit\Deposit\bin\Debug\net5.0\Deposit.runtimeconfig.dev.json
+C:\Users\ELENA\source\repos\Deposit\Deposit\bin\Debug\net5.0\Deposit.dll
+C:\Users\ELENA\source\repos\Deposit\Deposit\bin\Debug\net5.0\ref\Deposit.dll
+C:\Users\ELENA\source\repos\Deposit\Deposit\bin\Debug\net5.0\Deposit.pdb
+C:\Users\ELENA\source\repos\Deposit\Deposit\obj\Debug\net5.0\Deposit.csproj.AssemblyReference.cache
+C:\Users\ELENA\source\repos\Deposit\Deposit\obj\Debug\net5.0\Deposit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELENA\source\repos\Deposit\Deposit\obj\Debug\net5.0\Deposit.AssemblyInfoInputs.cache
+C:\Users\ELENA\source\repos\Deposit\Deposit\obj\Debug\net5.0\Deposit.AssemblyInfo.cs
+C:\Users\ELENA\source\repos\Deposit\Deposit\obj\Debug\net5.0\Deposit.csproj.CoreCompileInputs.cache
+C:\Users\ELENA\source\repos\Deposit\Deposit\obj\Debug\net5.0\Deposit.dll
+C:\Users\ELENA\source\repos\Deposit\Deposit\obj\Debug\net5.0\ref\Deposit.dll
+C:\Users\ELENA\source\repos\Deposit\Deposit\obj\Debug\net5.0\Deposit.pdb
+C:\Users\ELENA\source\repos\Deposit\Deposit\obj\Debug\net5.0\Deposit.genruntimeconfig.cache
