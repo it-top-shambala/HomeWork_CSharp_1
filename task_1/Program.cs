@@ -16,7 +16,7 @@ namespace task_1
         public static void Main(string[] args)
         {
             Console.WriteLine("Enter some unsigned numbers A, B, C: ");
-            double A, B, C;
+            double A = 0, B = 0, C = 0;
             double firstArea, secondArea;
             int countA = 0;
             int countB = 0;
@@ -24,7 +24,7 @@ namespace task_1
 
             bool flag = true;
 
-            do
+            while (flag)
             {
                 A = Convert.ToDouble(Console.ReadLine());
                 B = Convert.ToDouble(Console.ReadLine());
@@ -33,12 +33,12 @@ namespace task_1
                 if (C > A || C > B)
                 {
                     Console.WriteLine("Side C couldn't be more than A or B");
-                } 
+                }
                 else
                 {
                     flag = false;
                 }
-            } while(flag);
+            }
 
             firstArea = A * B;
             secondArea = C * C;
