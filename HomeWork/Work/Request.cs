@@ -15,10 +15,9 @@ namespace HomeWork
         public int orderId;
         public string orderClient;
         public DateTime orderDate;
-        public string[] orderItems;//Элементы заказа
+        public string[] orderItems;//предметы заказа
         public double[] orderPrise;
-        public double OrderSum { get => orderPrise.Sum(); }
-        private double orderSum;
+        public double OrderSum { get => orderPrise.Sum(); }       
         private PayType payType;
 
         public Request(int id, string client, DateTime date,

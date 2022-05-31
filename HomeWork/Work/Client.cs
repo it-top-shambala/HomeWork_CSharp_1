@@ -23,14 +23,14 @@ namespace HomeWork
         private ClientType clientType;
 
         public Client(int id, string name, string address, string phone,
-            int orders, double sum,ClientType _clientType)
+            int orders, double ordersum,ClientType _clientType)
         {
             clientId = id;
             clientName = name;
             clientAddress = address;
             clientPhone = phone;
             clientOrders = orders;
-            clientOrdersSum = sum;
+            clientOrdersSum = ordersum;
             clientType = _clientType;
         }
         public void PrintClient()
